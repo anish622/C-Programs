@@ -1,37 +1,22 @@
 ﻿using System;
-class Calculator
+class program
 {
     static void Main()
     {
-
-        Console.WriteLine("enter a first number");
-        int a = Convert.ToInt32(Console.ReadLine());
-        Console.WriteLine("enter a second number");
-        int b = Convert.ToInt32(Console.ReadLine());
-        Console.WriteLine("enter a operators +,-,*,/,%");
-        char stmt = Convert.ToChar(Console.ReadLine());
-        switch (stmt)
+        for (int num = 1; num <= 1000; num++)
         {
-            case '+':
-                Console.WriteLine(a + b);
-                break;
-            case '-':
-                Console.WriteLine(a - b);
-                break;
-            case '*':
-                Console.WriteLine(a * b);
-                break;
-            case '/':
-                Console.WriteLine(a / b);
-                break;
-            case '%':
-                Console.WriteLine(a % b);
-                break;
-
-
+            int sum = 0;
+            int temp = num;
+            while (temp > 0)
+            {
+                int digit = temp % 10;
+                sum += digit * digit * digit;
+                temp /= 10;
+            }
+            if (sum == num)
+            {
+                Console.WriteLine(num);
+            }
         }
-
-
-
     }
 }
