@@ -1,0 +1,61 @@
+
+    using System;
+ 
+        class shape
+    {
+        public virtual void draw()
+        {
+            Console.WriteLine("drawing");
+        }
+        public virtual void erase()
+        {
+            Console.WriteLine("erasing");
+        }
+
+    }
+    class circle : shape
+    {
+        public override void draw()
+        {
+            Console.WriteLine("drawing circle");
+        }
+        public override void erase()
+        {
+            Console.WriteLine("erasing circle");
+        }
+    }
+    class trianngle : shape
+    {
+        public override void draw()
+        {
+            Console.WriteLine("drawing triangle");
+        }
+        public override void erase()
+        {
+            Console.WriteLine("erasing triangle");
+        }
+    }
+    class square : shape
+    {
+        public override void draw()
+        {
+            Console.WriteLine("drawing square");
+        }
+        public override void erase()
+        {
+            Console.WriteLine("erasing square");
+        }
+
+    }
+    class program
+    {
+        static void Main()
+        {
+            shape[] shapes = { new circle(), new trianngle(), new square(), new square() };
+            foreach (shape s in shapes)
+            {
+                s.draw();
+                s.erase();
+            }
+        }
+    }
