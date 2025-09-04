@@ -1,0 +1,14 @@
+C:\Users\ASUS\OneDrive\Desktop\C# Practical\calculate_ara_perimeter\calculate_ara_perimeter\bin\Debug\net8.0\calculate_ara_perimeter.exe
+C:\Users\ASUS\OneDrive\Desktop\C# Practical\calculate_ara_perimeter\calculate_ara_perimeter\bin\Debug\net8.0\calculate_ara_perimeter.deps.json
+C:\Users\ASUS\OneDrive\Desktop\C# Practical\calculate_ara_perimeter\calculate_ara_perimeter\bin\Debug\net8.0\calculate_ara_perimeter.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\C# Practical\calculate_ara_perimeter\calculate_ara_perimeter\bin\Debug\net8.0\calculate_ara_perimeter.dll
+C:\Users\ASUS\OneDrive\Desktop\C# Practical\calculate_ara_perimeter\calculate_ara_perimeter\bin\Debug\net8.0\calculate_ara_perimeter.pdb
+C:\Users\ASUS\OneDrive\Desktop\C# Practical\calculate_ara_perimeter\calculate_ara_perimeter\obj\Debug\net8.0\calculate_ara_perimeter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\C# Practical\calculate_ara_perimeter\calculate_ara_perimeter\obj\Debug\net8.0\calculate_ara_perimeter.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\C# Practical\calculate_ara_perimeter\calculate_ara_perimeter\obj\Debug\net8.0\calculate_ara_perimeter.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\C# Practical\calculate_ara_perimeter\calculate_ara_perimeter\obj\Debug\net8.0\calculate_ara_perimeter.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\C# Practical\calculate_ara_perimeter\calculate_ara_perimeter\obj\Debug\net8.0\calculate_ara_perimeter.dll
+C:\Users\ASUS\OneDrive\Desktop\C# Practical\calculate_ara_perimeter\calculate_ara_perimeter\obj\Debug\net8.0\refint\calculate_ara_perimeter.dll
+C:\Users\ASUS\OneDrive\Desktop\C# Practical\calculate_ara_perimeter\calculate_ara_perimeter\obj\Debug\net8.0\calculate_ara_perimeter.pdb
+C:\Users\ASUS\OneDrive\Desktop\C# Practical\calculate_ara_perimeter\calculate_ara_perimeter\obj\Debug\net8.0\calculate_ara_perimeter.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Desktop\C# Practical\calculate_ara_perimeter\calculate_ara_perimeter\obj\Debug\net8.0\ref\calculate_ara_perimeter.dll
