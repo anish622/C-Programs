@@ -1,0 +1,14 @@
+C:\Users\Studen\Desktop\temporary\payment\payment\obj\Debug\net8.0\payment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Studen\Desktop\temporary\payment\payment\obj\Debug\net8.0\payment.AssemblyInfoInputs.cache
+C:\Users\Studen\Desktop\temporary\payment\payment\obj\Debug\net8.0\payment.AssemblyInfo.cs
+C:\Users\Studen\Desktop\temporary\payment\payment\obj\Debug\net8.0\payment.csproj.CoreCompileInputs.cache
+C:\Users\Studen\Desktop\temporary\payment\payment\bin\Debug\net8.0\payment.exe
+C:\Users\Studen\Desktop\temporary\payment\payment\bin\Debug\net8.0\payment.deps.json
+C:\Users\Studen\Desktop\temporary\payment\payment\bin\Debug\net8.0\payment.runtimeconfig.json
+C:\Users\Studen\Desktop\temporary\payment\payment\bin\Debug\net8.0\payment.dll
+C:\Users\Studen\Desktop\temporary\payment\payment\bin\Debug\net8.0\payment.pdb
+C:\Users\Studen\Desktop\temporary\payment\payment\obj\Debug\net8.0\payment.dll
+C:\Users\Studen\Desktop\temporary\payment\payment\obj\Debug\net8.0\refint\payment.dll
+C:\Users\Studen\Desktop\temporary\payment\payment\obj\Debug\net8.0\payment.pdb
+C:\Users\Studen\Desktop\temporary\payment\payment\obj\Debug\net8.0\payment.genruntimeconfig.cache
+C:\Users\Studen\Desktop\temporary\payment\payment\obj\Debug\net8.0\ref\payment.dll
