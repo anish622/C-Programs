@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\Anish C#\exception.cs\exception.cs\bin\Debug\net8.0\exception.cs.exe
+C:\Users\Student\Desktop\Anish C#\exception.cs\exception.cs\bin\Debug\net8.0\exception.cs.deps.json
+C:\Users\Student\Desktop\Anish C#\exception.cs\exception.cs\bin\Debug\net8.0\exception.cs.runtimeconfig.json
+C:\Users\Student\Desktop\Anish C#\exception.cs\exception.cs\bin\Debug\net8.0\exception.cs.dll
+C:\Users\Student\Desktop\Anish C#\exception.cs\exception.cs\bin\Debug\net8.0\exception.cs.pdb
+C:\Users\Student\Desktop\Anish C#\exception.cs\exception.cs\obj\Debug\net8.0\exception.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\Anish C#\exception.cs\exception.cs\obj\Debug\net8.0\exception.cs.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Anish C#\exception.cs\exception.cs\obj\Debug\net8.0\exception.cs.AssemblyInfo.cs
+C:\Users\Student\Desktop\Anish C#\exception.cs\exception.cs\obj\Debug\net8.0\exception.cs.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Anish C#\exception.cs\exception.cs\obj\Debug\net8.0\exception.cs.dll
+C:\Users\Student\Desktop\Anish C#\exception.cs\exception.cs\obj\Debug\net8.0\refint\exception.cs.dll
+C:\Users\Student\Desktop\Anish C#\exception.cs\exception.cs\obj\Debug\net8.0\exception.cs.pdb
+C:\Users\Student\Desktop\Anish C#\exception.cs\exception.cs\obj\Debug\net8.0\exception.cs.genruntimeconfig.cache
+C:\Users\Student\Desktop\Anish C#\exception.cs\exception.cs\obj\Debug\net8.0\ref\exception.cs.dll
