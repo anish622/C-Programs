@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\Anish C#\EMI.cs\EMI.cs\bin\Debug\net8.0\EMI.cs.exe
+C:\Users\Student\Desktop\Anish C#\EMI.cs\EMI.cs\bin\Debug\net8.0\EMI.cs.deps.json
+C:\Users\Student\Desktop\Anish C#\EMI.cs\EMI.cs\bin\Debug\net8.0\EMI.cs.runtimeconfig.json
+C:\Users\Student\Desktop\Anish C#\EMI.cs\EMI.cs\bin\Debug\net8.0\EMI.cs.dll
+C:\Users\Student\Desktop\Anish C#\EMI.cs\EMI.cs\bin\Debug\net8.0\EMI.cs.pdb
+C:\Users\Student\Desktop\Anish C#\EMI.cs\EMI.cs\obj\Debug\net8.0\EMI.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\Anish C#\EMI.cs\EMI.cs\obj\Debug\net8.0\EMI.cs.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Anish C#\EMI.cs\EMI.cs\obj\Debug\net8.0\EMI.cs.AssemblyInfo.cs
+C:\Users\Student\Desktop\Anish C#\EMI.cs\EMI.cs\obj\Debug\net8.0\EMI.cs.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Anish C#\EMI.cs\EMI.cs\obj\Debug\net8.0\EMI.cs.dll
+C:\Users\Student\Desktop\Anish C#\EMI.cs\EMI.cs\obj\Debug\net8.0\refint\EMI.cs.dll
+C:\Users\Student\Desktop\Anish C#\EMI.cs\EMI.cs\obj\Debug\net8.0\EMI.cs.pdb
+C:\Users\Student\Desktop\Anish C#\EMI.cs\EMI.cs\obj\Debug\net8.0\EMI.cs.genruntimeconfig.cache
+C:\Users\Student\Desktop\Anish C#\EMI.cs\EMI.cs\obj\Debug\net8.0\ref\EMI.cs.dll
