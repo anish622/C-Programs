@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\Anish C#\curremcy converter\curremcy converter\bin\Debug\net8.0\curremcy converter.exe
+C:\Users\Student\Desktop\Anish C#\curremcy converter\curremcy converter\bin\Debug\net8.0\curremcy converter.deps.json
+C:\Users\Student\Desktop\Anish C#\curremcy converter\curremcy converter\bin\Debug\net8.0\curremcy converter.runtimeconfig.json
+C:\Users\Student\Desktop\Anish C#\curremcy converter\curremcy converter\bin\Debug\net8.0\curremcy converter.dll
+C:\Users\Student\Desktop\Anish C#\curremcy converter\curremcy converter\bin\Debug\net8.0\curremcy converter.pdb
+C:\Users\Student\Desktop\Anish C#\curremcy converter\curremcy converter\obj\Debug\net8.0\curremcy converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\Anish C#\curremcy converter\curremcy converter\obj\Debug\net8.0\curremcy converter.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Anish C#\curremcy converter\curremcy converter\obj\Debug\net8.0\curremcy converter.AssemblyInfo.cs
+C:\Users\Student\Desktop\Anish C#\curremcy converter\curremcy converter\obj\Debug\net8.0\curremcy converter.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Anish C#\curremcy converter\curremcy converter\obj\Debug\net8.0\curremcy converter.dll
+C:\Users\Student\Desktop\Anish C#\curremcy converter\curremcy converter\obj\Debug\net8.0\refint\curremcy converter.dll
+C:\Users\Student\Desktop\Anish C#\curremcy converter\curremcy converter\obj\Debug\net8.0\curremcy converter.pdb
+C:\Users\Student\Desktop\Anish C#\curremcy converter\curremcy converter\obj\Debug\net8.0\curremcy converter.genruntimeconfig.cache
+C:\Users\Student\Desktop\Anish C#\curremcy converter\curremcy converter\obj\Debug\net8.0\ref\curremcy converter.dll

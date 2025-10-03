@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "curremcy converter/1.0.0": {
+        "runtime": {
+          "curremcy converter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "curremcy converter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
