@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\Anish C#\queue.cs\queue.cs\bin\Debug\net8.0\queue.cs.exe
+C:\Users\Student\Desktop\Anish C#\queue.cs\queue.cs\bin\Debug\net8.0\queue.cs.deps.json
+C:\Users\Student\Desktop\Anish C#\queue.cs\queue.cs\bin\Debug\net8.0\queue.cs.runtimeconfig.json
+C:\Users\Student\Desktop\Anish C#\queue.cs\queue.cs\bin\Debug\net8.0\queue.cs.dll
+C:\Users\Student\Desktop\Anish C#\queue.cs\queue.cs\bin\Debug\net8.0\queue.cs.pdb
+C:\Users\Student\Desktop\Anish C#\queue.cs\queue.cs\obj\Debug\net8.0\queue.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\Anish C#\queue.cs\queue.cs\obj\Debug\net8.0\queue.cs.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Anish C#\queue.cs\queue.cs\obj\Debug\net8.0\queue.cs.AssemblyInfo.cs
+C:\Users\Student\Desktop\Anish C#\queue.cs\queue.cs\obj\Debug\net8.0\queue.cs.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Anish C#\queue.cs\queue.cs\obj\Debug\net8.0\queue.cs.dll
+C:\Users\Student\Desktop\Anish C#\queue.cs\queue.cs\obj\Debug\net8.0\refint\queue.cs.dll
+C:\Users\Student\Desktop\Anish C#\queue.cs\queue.cs\obj\Debug\net8.0\queue.cs.pdb
+C:\Users\Student\Desktop\Anish C#\queue.cs\queue.cs\obj\Debug\net8.0\queue.cs.genruntimeconfig.cache
+C:\Users\Student\Desktop\Anish C#\queue.cs\queue.cs\obj\Debug\net8.0\ref\queue.cs.dll
