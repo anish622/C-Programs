@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\Anish C#\delegate.cs\delegate.cs\obj\Debug\net8.0\delegate.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\Anish C#\delegate.cs\delegate.cs\obj\Debug\net8.0\delegate.cs.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Anish C#\delegate.cs\delegate.cs\obj\Debug\net8.0\delegate.cs.AssemblyInfo.cs
+C:\Users\Student\Desktop\Anish C#\delegate.cs\delegate.cs\obj\Debug\net8.0\delegate.cs.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Anish C#\delegate.cs\delegate.cs\bin\Debug\net8.0\delegate.cs.exe
+C:\Users\Student\Desktop\Anish C#\delegate.cs\delegate.cs\bin\Debug\net8.0\delegate.cs.deps.json
+C:\Users\Student\Desktop\Anish C#\delegate.cs\delegate.cs\bin\Debug\net8.0\delegate.cs.runtimeconfig.json
+C:\Users\Student\Desktop\Anish C#\delegate.cs\delegate.cs\bin\Debug\net8.0\delegate.cs.dll
+C:\Users\Student\Desktop\Anish C#\delegate.cs\delegate.cs\bin\Debug\net8.0\delegate.cs.pdb
+C:\Users\Student\Desktop\Anish C#\delegate.cs\delegate.cs\obj\Debug\net8.0\delegate.cs.dll
+C:\Users\Student\Desktop\Anish C#\delegate.cs\delegate.cs\obj\Debug\net8.0\refint\delegate.cs.dll
+C:\Users\Student\Desktop\Anish C#\delegate.cs\delegate.cs\obj\Debug\net8.0\delegate.cs.pdb
+C:\Users\Student\Desktop\Anish C#\delegate.cs\delegate.cs\obj\Debug\net8.0\delegate.cs.genruntimeconfig.cache
+C:\Users\Student\Desktop\Anish C#\delegate.cs\delegate.cs\obj\Debug\net8.0\ref\delegate.cs.dll
