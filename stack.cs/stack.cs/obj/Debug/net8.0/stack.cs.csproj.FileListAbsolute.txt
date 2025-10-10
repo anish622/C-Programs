@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\Anish C#\stack.cs\stack.cs\obj\Debug\net8.0\stack.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\Anish C#\stack.cs\stack.cs\obj\Debug\net8.0\stack.cs.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Anish C#\stack.cs\stack.cs\obj\Debug\net8.0\stack.cs.AssemblyInfo.cs
+C:\Users\Student\Desktop\Anish C#\stack.cs\stack.cs\obj\Debug\net8.0\stack.cs.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Anish C#\stack.cs\stack.cs\bin\Debug\net8.0\stack.cs.exe
+C:\Users\Student\Desktop\Anish C#\stack.cs\stack.cs\bin\Debug\net8.0\stack.cs.deps.json
+C:\Users\Student\Desktop\Anish C#\stack.cs\stack.cs\bin\Debug\net8.0\stack.cs.runtimeconfig.json
+C:\Users\Student\Desktop\Anish C#\stack.cs\stack.cs\bin\Debug\net8.0\stack.cs.dll
+C:\Users\Student\Desktop\Anish C#\stack.cs\stack.cs\bin\Debug\net8.0\stack.cs.pdb
+C:\Users\Student\Desktop\Anish C#\stack.cs\stack.cs\obj\Debug\net8.0\stack.cs.dll
+C:\Users\Student\Desktop\Anish C#\stack.cs\stack.cs\obj\Debug\net8.0\refint\stack.cs.dll
+C:\Users\Student\Desktop\Anish C#\stack.cs\stack.cs\obj\Debug\net8.0\stack.cs.pdb
+C:\Users\Student\Desktop\Anish C#\stack.cs\stack.cs\obj\Debug\net8.0\stack.cs.genruntimeconfig.cache
+C:\Users\Student\Desktop\Anish C#\stack.cs\stack.cs\obj\Debug\net8.0\ref\stack.cs.dll
